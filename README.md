@@ -1,6 +1,6 @@
 ## Portfolio
 
-Senior Software engineer with an experience of 5yrs. Currently pursuing my MSc Web and Data science from University of Koblenz Landau. Highly skilled as an SDET, Loves working around and experimenting things with new automation strategies for Data collection and manipulation. 
+Senior Data Engineer with an experience of 5yrs. Currently pursuing my MSc Web and Data science from University of Koblenz Landau. Highly skilled as an SDET, Loves working around and experimenting things with new automation strategies for Data collection and manipulation. 
 
 ---
 
