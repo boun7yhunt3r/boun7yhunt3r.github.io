@@ -40,7 +40,7 @@ GPGPU Computing,
 Sustainability and IT
 
 ### **University Koblenz Landau (Germany) (2020 -2022)**
-Msc Web and Data Science
+###Msc Web and Data Science
 ---
 
 ### INTERESTS
