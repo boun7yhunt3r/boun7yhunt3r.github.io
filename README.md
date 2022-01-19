@@ -10,7 +10,7 @@ Senior Software engineer with an experience of 5yrs. Currently pursuing my MSc W
   <img src="python.png" alt="python" width="40" height="40">
   <img src='800px-Jupyter_logo.png' alt="jupyter notebook" width="40" height="40">
   <img src='Matlab_Logo.png' height='30' width='auto' alt="Matlab">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="Tableau-Emblem.png" alt="Tableau" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
 
