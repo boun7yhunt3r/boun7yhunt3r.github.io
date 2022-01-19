@@ -18,32 +18,32 @@ Senior Software engineer with an experience of 5yrs. Currently pursuing my MSc W
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **SENIOR Data Engineer**
+### Insulet Corporation 
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+IoT automation using python. Develop python scripts for automatic data collection and manipulation in fixed intervals.
+Python Backend
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **Senior Software Engineer**
+### Infosys Ltd
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+Developing Warehouse management system for AB InBev. Worked with Tiffany & Co. for enhancements in retail web application.
+Mostly worked with Java/Python
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
-
----
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **LUT University (Finland)**
+### Erasmus Mundus Scholarship (2022)
+Computer Vision
+GPGPU Computing
+Sustainability and IT
 
+### **University Koblenz Landau (Germany) (2020 -2022)**
+Msc Web and Data Science
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Writing article on Medium/ Linkedin. Read Science fiction books and articles. 
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I learn guitar from youtube tutorials and spend time listening to music, also loes portrait drawing and painting.
