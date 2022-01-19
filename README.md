@@ -7,8 +7,8 @@ Senior Software engineer with an experience of 5yrs. Currently pursuing my MSc W
 ## Skills
 
 <p align='left'>
-  <img src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg" alt="html" width="40" height="40">
-  <img src='https://en.wikipedia.org/wiki/Project_Jupyter#/media/File:Jupyter_logo.svg' alt="css" width="40" height="40">
+  <img src="https://commons.wikimedia.org/wiki/File:Pythonlogo.png" alt="python" width="40" height="40">
+  <img src='https://en.wikipedia.org/wiki/Project_Jupyter#/media/File:Jupyter_logo.svg' alt="jupyter notebook" width="40" height="40">
   <img src='https://en.wikipedia.org/wiki/MATLAB#/media/File:Matlab_Logo.png' height='30' width='auto' alt="Matlab">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
