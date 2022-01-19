@@ -37,10 +37,17 @@ Mostly worked with Java/Python
 ### Erasmus Mundus Scholarship (2022)
 Computer Vision, 
 GPGPU Computing, 
-Sustainability and IT
+Sustainability and IT.
 
 ### **University Koblenz Landau (Germany) (2020 -2022)**
-###Msc Web and Data Science
+### Msc Web and Data Science
+Machine Learning and Data Mining, 
+Data Science, 
+Big Data,
+Engineering Web and Data Intensive System, 
+Network Theory and Dynamic systems,
+Introduction to Web Science.
+
 ---
 
 ### INTERESTS
