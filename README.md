@@ -35,8 +35,8 @@ Mostly worked with Java/Python
 
 ### **LUT University (Finland)**
 ### Erasmus Mundus Scholarship (2022)
-Computer Vision
-GPGPU Computing
+Computer Vision, 
+GPGPU Computing, 
 Sustainability and IT
 
 ### **University Koblenz Landau (Germany) (2020 -2022)**
