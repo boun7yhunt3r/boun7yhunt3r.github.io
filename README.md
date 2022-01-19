@@ -18,7 +18,7 @@ Senior Data Engineer with an experience of 5yrs. Currently pursuing my MSc Web a
 
 ## Experience
 
-### **SENIOR Data Engineer**
+### **Senior Data Engineer**
 ### Insulet Corporation 
 
 IoT automation using python. Develop python scripts for automatic data collection and manipulation in fixed intervals.
