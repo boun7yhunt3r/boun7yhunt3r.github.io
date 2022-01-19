@@ -11,7 +11,7 @@ Senior Software engineer with an experience of 5yrs. Currently pursuing my MSc W
   <img src='800px-Jupyter_logo.png' alt="jupyter notebook" width="40" height="40">
   <img src='Matlab_Logo.png' height='30' width='auto' alt="Matlab">
    <img src="Tableau-Emblem.png" alt="Tableau" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="Tensorflow_logo.png" alt="TensorFlow" width="40" height="40"/>
 </p>
 
 ---
