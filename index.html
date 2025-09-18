@@ -382,7 +382,16 @@
             font-size: 0.85rem;
             border: 1px solid rgba(255, 107, 53, 0.2);
         }
-
+        .logo {
+        font-size: 14px;             /* smaller text */
+        font-weight: 500;
+        color: #fc9256;              /* light text */
+        border-radius: 8px;
+        padding: 6px 12px;
+        box-shadow: 0 0 8px rgba(255, 94, 0, 0.6);
+        font-family: 'Courier New', monospace; /* hacker vibe */
+        white-space: nowrap;         /* keeps it in one line */
+        }
         /* Contact Section */
         .contact-info {
             display: grid;
@@ -488,7 +497,9 @@
     <!-- Navigation -->
     <nav>
         <div class="nav-container">
-            <a href="#" class="logo">Aravind</a>
+            <div class="logo">
+            “Dashboards don’t solve problems… they just make them pretty 🎨🩹”
+            </div>
             <ul class="nav-links">
                 <li><a href="#about">About</a></li>
                 <li><a href="#experience">Experience</a></li>
@@ -499,17 +510,17 @@
     </nav>
 
     <!-- Hero Section -->
-    <section class="hero">
+    <section id="about" class="hero">
         <div class="floating-element floating-1"></div>
         <div class="floating-element floating-2"></div>
         <div class="floating-element floating-3"></div>
         
         <div class="hero-content">
             <div class="profile-image">
-                <img src="your-image-url.jpg" alt="Aravind Remanan">
+                <img src="portfolio_image.png" alt="Aravind Remanan">
             </div>
             <h1>Aravind Remanan</h1>
-            <h2>Data Science & Engineering Expert</h2>
+            <h2>IIoT Data Science & Engineering Expert</h2>
             <p>Certified Scrum Master transforming complex datasets into actionable insights using advanced analytics, statistics, and machine learning. Leading end-to-end data projects with Agile methodologies.</p>
             <div class="cta-buttons">
                 <a href="#experience" class="btn btn-primary">View My Work</a>
@@ -542,7 +553,43 @@
                     </ul>
                 </div>
             </div>
-
+            <div class="experience-grid">
+                <div class="experience-card">
+                    <div class="card-header">
+                        <div>
+                            <div class="card-title">Master Thesis</div>
+                            <div class="card-company">Deutsches Zentrum für Luft- und Raumfahrt e.V.</div>
+                            <div class="card-location">Stuttgart, Germany</div>
+                        </div>
+                        <div class="card-date">09/2023 – 04/2024</div>
+                    </div>
+                    <div class="card-description">
+                        <ul>
+                            <li>Conducted research on heterogeneous data-driven optimization and automation for Robotic Screw Extrusion Additive Manufacturing (SEAM) using KUKA robots and RoboDK, integrating Industry 4.0 and IIoT frameworks to enhance operational efficiency.</li>
+                            <li>Designed and optimized graph database schemas in Shepard, incorporating semantics and ontologies to ensure compliance with FAIR data principles.</li>
+                            <li>Developed real-time data streaming pipelines for industrial robots using OPC UA and orchestrated ETL processes, enabling robust data modeling for graph databases.</li>
+                            <li>Performed advanced statistical analysis with SciPy and Pandas to integrate digital twin models into the data lifecycle, improving precision in additive manufacturing processes.</li>
+                            <li>Leveraged FastAPI for API development and Docker for containerized environments, ensuring scalable and reproducible data workflows.</li>
+                        </ul>
+                    </div>
+                </div>
+            <div class="experience-card">
+                    <div class="card-header">
+                        <div>
+                            <div class="card-title">Intern</div>
+                            <div class="card-company">Porsche Engineering</div>
+                            <div class="card-location">Stuttgart, Germany</div>
+                        </div>
+                        <div class="card-date">05/2023 – 07/2023</div>
+                    </div>
+                    <div class="card-description">
+                        <ul>
+                            <li>Developed and optimized battery testing code to improve code deployment time by 20%.</li>
+                            <li>Supported CI/CD processes to integrate and take part in deployment process.</li>
+                            <li>Provided project support and maintained documentation in Confluence, ensuring effective collaboration.</li>
+                        </ul>
+                    </div>
+                </div>
             <div class="experience-card">
                 <div class="card-header">
                     <div>
@@ -674,13 +721,13 @@
             <div class="contact-item">
                 <div class="contact-icon">💼</div>
                 <h3>LinkedIn</h3>
-                <a href="#" target="_blank">Connect with me</a>
+                <a href="https://www.linkedin.com/in/aravind-asha-msc-739605122/" target="_blank">Connect with me</a>
             </div>
             
             <div class="contact-item">
                 <div class="contact-icon">⚡</div>
                 <h3>GitHub</h3>
-                <a href="#" target="_blank">View my projects</a>
+                <a href="https://github.com/boun7yhunt3r" target="_blank">View my projects</a>
             </div>
         </div>
     </section>
